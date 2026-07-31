@@ -1,3 +1,64 @@
 FECipher0CFS	07-31-26
 plugins/FECipher0CFS/version.txt	https://dl.dropboxusercontent.com/s/962dgtkb4vcilks/version.txt	30572
 plugins/FECipher0CFS/formats.txt	https://dl.dropboxusercontent.com/scl/fi/jgzwrt7ua4n6vnsk6f3gi/formats.txt?rlkey=u3x9znbm21pdwmhgg84wjt7mw&st=iao4th4w&dl=0	349148
+plugins/FECipher0CFS/plugininfo.txt	https://dl.dropboxusercontent.com/s/2j97reiqhc0q2o0/plugininfo.txt	341791
+plugins/FECipher0CFS/uninstall.txt	https://dl.dropboxusercontent.com/s/78blqth7om4hd4q/uninstall.txt	9734
+plugins/FECipher0CFS/CardImageURLs1.txt	https://dl.dropboxusercontent.com/s/twsprwmt3o5hmuu/CardImageURLs1.txt	493194
+plugins/FECipher0CFS/CardImageURLs2.txt	https://dl.dropboxusercontent.com/s/rq7ho6wfzjtoszo/CardImageURLs2.txt	9533908
+plugins/FECipher0CFS/CardImageURLs3.txt	https://dl.dropboxusercontent.com/s/z3fet7lcojsrwmf/CardImageURLs3.txt	30820596
+plugins/FECipher0CFS/CardImageURLs4.txt	https://dl.dropboxusercontent.com/scl/fi/rmbabzca1t5ffwq76q619/CardImageURLs4.txt?rlkey=bopeiv23e1np0xs8osmddqrl3&st=ifpbamxv&dl=0	194043
+plugins/FECipher0CFS/defaultchat.txt	https://dl.dropboxusercontent.com/s/vfwbqce44o7npkc/defaultchat.txt	14975
+plugins/FECipher0CFS/sets/cardback.jpg	https://dl.dropboxusercontent.com/s/0x3rzwap53ohys5/cardback.jpg	-149634
+plugins/FECipher0CFS/sets/custom-cards.txt	https://dl.dropboxusercontent.com/s/y4npw5wz7u3t413/custom-cards.txt	39029617
+plugins/FECipher0CFS/sets/custom-cards-CFS.txt	https://dl.dropboxusercontent.com/scl/fi/qdhboals1yefsju6gydai/custom-cards-CFS.txt?rlkey=quz65l06uhwj7j8maussn0aq4&st=0k6bmyz1&dl=0	507124
+plugins/FECipher0CFS/sets/official-cards.txt	https://dl.dropboxusercontent.com/s/xjcvz08rfi30soy/official-cards.txt	99180622
+plugins/FECipher0CFS/sets/specials-tokens.txt	https://dl.dropboxusercontent.com/s/8i0xsjotwypddqb/specials-tokens.txt	504983
+images/backgrounds/defaultbackground.jpg	https://dl.dropboxusercontent.com/s/g1vfzlulouzblg6/defaultbackground.jpg	-1136987
+images/backgrounds/8PlayerArenaMat.png	https://dl.dropboxusercontent.com/s/2a9jn0vwzku3w3o/8PlayerArenaMat.png	-919386
+images/zonebackgrounds/DeckArea.png	https://dl.dropboxusercontent.com/s/1a4rjwwdz1ptqwj/DeckArea.png	-30452
+images/zonebackgrounds/DeckArea2.png	https://dl.dropboxusercontent.com/s/o771qh06yqo0rbd/DeckArea2.png	-143233
+images/zonebackgrounds/DeckArea3.png	https://dl.dropboxusercontent.com/s/zg6qat3bybk2v10/DeckArea3.png	-132961
+plugins/FECipher0CFS/decks/1_War_of_Shadows_Starter.dek	https://dl.dropboxusercontent.com/s/8zsve09eyozs03q/1_War_of_Shadows_Starter.dek	376788
+plugins/FECipher0CFS/decks/2_Awakening_Starter.dek	https://dl.dropboxusercontent.com/s/6opm22ydt9zjou6/2_Awakening_Starter.dek	389591
+plugins/FECipher0CFS/decks/3_Hoshido_Starter.dek	https://dl.dropboxusercontent.com/s/b4d67yz2ez16x5a/3_Hoshido_Starter.dek	388447
+plugins/FECipher0CFS/decks/4_Nohr_Starter.dek	https://dl.dropboxusercontent.com/s/s9nabbywr89qonv/4_Nohr_Starter.dek	371806
+plugins/FECipher0CFS/decks/5_Path_of_Radiance_Starter.dek	https://dl.dropboxusercontent.com/s/41pow3yqnbhidkt/5_Path_of_Radiance_Starter.dek	403368
+plugins/FECipher0CFS/decks/6_Mirage_Starter.dek	https://dl.dropboxusercontent.com/s/utzj8bwp6u59718/6_Mirage_Starter.dek	382516
+plugins/FECipher0CFS/decks/7_Binding_Disturbance_Starter.dek	https://dl.dropboxusercontent.com/s/noqhe8bwucthzgx/7_Binding_Disturbance_Starter.dek	383611
+plugins/FECipher0CFS/decks/8_Genealogy_Starter.dek	https://dl.dropboxusercontent.com/s/k1rvmcljd864zcn/8_Genealogy_Starter.dek	397112
+plugins/FECipher0CFS/decks/9_Land_of_The_Gods_Starter.dek	https://dl.dropboxusercontent.com/s/fdabd0abal6jh4b/9_Land_of_the_Gods_Starter.dek	398307
+plugins/FECipher0CFS/decks/10_Blazing_Blade_Starter.dek	https://dl.dropboxusercontent.com/s/pxpev0ri9dhfkpn/10_Blazing_Blade_Starter.dek	411561
+plugins/FECipher0CFS/decks/11_Warriors_of_Bonds_Starter.dek	https://dl.dropboxusercontent.com/s/t0rfrq1act9tk5o/11_Warriors_of_Bonds_Starter.dek	422647
+plugins/FECipher0CFS/decks/12_Three_Houses_Starter.dek	https://dl.dropboxusercontent.com/s/qic4k1porui1izf/12_Three_Houses_Starter.dek	448168
+plugins/FECipher0CFS/packs/packdefinitions1.xml	https://dl.dropboxusercontent.com/s/9j3h3fjbkshpw46/packdefinitions1.xml	3046013
+plugins/FECipher0CFS/packs/packdefinitions2.xml	https://dl.dropboxusercontent.com/s/7off1vq6o0nxzcl/packdefinitions2.xml	5398291
+plugins/FECipher0CFS/packs/B01.png	https://dl.dropboxusercontent.com/s/s09k2433o2l4kif/B01.png	-210477
+plugins/FECipher0CFS/packs/B02.png	https://dl.dropboxusercontent.com/s/sfwbrh67hanfl8o/B02.png	-54131
+plugins/FECipher0CFS/packs/B03.png	https://dl.dropboxusercontent.com/s/govzq2r9f4kawbq/B03.png	-278856
+plugins/FECipher0CFS/packs/B04.png	https://dl.dropboxusercontent.com/s/i8k25ahu98uc8c5/B04.png	-184790
+plugins/FECipher0CFS/packs/B05.png	https://dl.dropboxusercontent.com/s/awa69b3v7tscqyu/B05.png	-380493
+plugins/FECipher0CFS/packs/B06.png	https://dl.dropboxusercontent.com/s/dhw1nwtwcsxbs41/B06.png	-289309
+plugins/FECipher0CFS/packs/B07.png	https://dl.dropboxusercontent.com/s/bknhfea7ppm1gjy/B07.png	-277864
+plugins/FECipher0CFS/packs/B08.png	https://dl.dropboxusercontent.com/s/7yr3u1idko6kuuq/B08.png	-252853
+plugins/FECipher0CFS/packs/B09.png	https://dl.dropboxusercontent.com/s/dbkd07d67z7x3yb/B09.png	-333233
+plugins/FECipher0CFS/packs/B10.png	https://dl.dropboxusercontent.com/s/mobk55l1rbgv5c4/B10.png	-210180
+plugins/FECipher0CFS/packs/B11.png	https://dl.dropboxusercontent.com/s/osufjroosmcrvad/B11.png	-258411
+plugins/FECipher0CFS/packs/B12.png	https://dl.dropboxusercontent.com/s/zvy8e71no9rrfuz/B12.png	-258464
+plugins/FECipher0CFS/packs/B13.png	https://dl.dropboxusercontent.com/s/58ggy9nndz10r3h/B13.png	-325708
+plugins/FECipher0CFS/packs/B14.png	https://dl.dropboxusercontent.com/s/x7oyuq2gseyaeif/B14.png	1401664
+plugins/FECipher0CFS/packs/B15.png	https://dl.dropboxusercontent.com/s/aptzhgb9i7v9xxj/B15.png	5528439
+plugins/FECipher0CFS/packs/B16.png	https://dl.dropboxusercontent.com/s/r03ippnij3ydx7h/B16.png	5713760
+plugins/FECipher0CFS/packs/B17.png	https://dl.dropboxusercontent.com/s/v14n7u9atdk2i3y/B17.png	5723373
+plugins/FECipher0CFS/packs/B18.png	https://dl.dropboxusercontent.com/s/t2db3oyqqneqwsx/B18.png	5791730
+plugins/FECipher0CFS/packs/B19.png	https://dl.dropboxusercontent.com/s/p1kqhxbmw4ann3n/B19.png	5554562
+plugins/FECipher0CFS/packs/B20.png	https://dl.dropboxusercontent.com/s/zp3kgwio28sacp4/B20.png	5505231
+plugins/FECipher0CFS/packs/B21.png	https://dl.dropboxusercontent.com/s/vllvqewettcv3h0/B21.png	5670337
+plugins/FECipher0CFS/packs/B22.png	https://dl.dropboxusercontent.com/s/3riww9ekcpzbnuh/B22.png	5643755
+CardImageURLs:
+CardImageURLs1.txt
+CardImageURLs2.txt
+CardImageURLs3.txt
+CardImageURLs4.txt
+
+CardGeneralURLs:
+https://fecipher.jp/wp-content/uploads/cards/images/
