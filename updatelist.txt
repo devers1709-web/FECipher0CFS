@@ -1,0 +1,3 @@
+FECipher0CFS	07-31-26
+plugins/FECipher0CFS/version.txt	https://dl.dropboxusercontent.com/s/962dgtkb4vcilks/version.txt	30572
+plugins/FECipher0CFS/formats.txt	https://dl.dropboxusercontent.com/scl/fi/jgzwrt7ua4n6vnsk6f3gi/formats.txt?rlkey=u3x9znbm21pdwmhgg84wjt7mw&st=iao4th4w&dl=0	349148
